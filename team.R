@@ -10,12 +10,13 @@ data$AgeGroup <- cut(data$Age, breaks = seq(0, 100, by = 10), right = FALSE)
 avg_rating_by_age <- aggregate(Rating ~ AgeGroup, data = data, FUN = mean)
 
 # Create a bar plot of average ratings by age group
-ggplot(avg_rating_by_age, aes(x = AgeGroup, y = Rating)) +
+print(ggplot(avg_rating_by_age, aes(x = AgeGroup, y = Rating)) +
   geom_bar(stat = "identity", fill = "lightblue") +  # Use stat = "identity" for pre-computed values
   labs(title = "Average Rating by Age Group",
        x = "Age Group",
        y = "Average Rating") +
-  theme_minimal()
+  theme_minimal())
+
 
 
 # Ensure Age and Rating are numeric
@@ -36,4 +37,14 @@ p_value <- correlation_test$p.value      # p-value
 # Print the results
 cat("Pearson's r:", pearson_r, "\n")
 cat("p-value:", p_value, "\n")
+
+
+
+
+
+
+
+
+
+
 
