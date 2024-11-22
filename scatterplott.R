@@ -15,7 +15,7 @@ plot(x   # independent variable (Age)
   , main = "Scatterplot of Rating vs Age" # chart title
   , xlab = "Age" # x-axis label
   , ylab = "Rating" # y-axis label
-  , pch = 19 # point shape (filled circle)
+  , pch = 1 # point shape (unfilled circle)
   , frame = T # surround chart with a frame
        )
 model <- lm(y ~ x, data = df) # compute the linear model
