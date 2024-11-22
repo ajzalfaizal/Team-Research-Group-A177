@@ -21,3 +21,8 @@ plot(x   # independent variable (Age)
 model <- lm(y ~ x, data = df) # compute the linear model
 abline(model, col = "black") # draw the model as a blue line
 
+
+
+
+
+
