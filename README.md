@@ -10,8 +10,8 @@ Team Research Group A177
 ## Resarch 
 Is there a correlation between Rating and Age in Women's E-commerce Clothing Reviws?
 
-**Independent Variable **: Age
-**Dependent Variable **: Rating
+**Independent Variable**: Age
+**Dependent Variable**: Rating
 
 **Null Hypothesis**
 There is no correlation Between Rating and Age in Women's E-commerce Clothing Reviews.
