@@ -7,7 +7,7 @@ Team Research Group A177
 - Anadhu -> 230965639
 - Abhay -> 23107161
 
-## Resarch 
+## Research 
 Is there a correlation between Rating and Age in Women's E-commerce Clothing Reviws?
 
 **Independent Variable**: Age
