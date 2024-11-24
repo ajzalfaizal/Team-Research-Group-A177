@@ -9,7 +9,7 @@ y <- df$Rating
 
 
 # Plot with main and axis titles
-# Change point shape (pch = 19) and include frame.
+# Change point shape (pch = 19) and include frames.
 plot(x   # independent variable (Age)
    , y # dependent variable (Rating)
   , main = "Scatterplot of Rating vs Age" # chart title
