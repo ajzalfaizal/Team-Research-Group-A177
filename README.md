@@ -11,6 +11,7 @@ Team Research Group A177
 Is there a correlation between Rating and Age in Women's E-commerce Clothing Reviws?
 
 **Independent Variable**: Age
+
 **Dependent Variable**: Rating
 
 **Null Hypothesis**
