@@ -7,11 +7,11 @@ d <- read.csv("C:/Users/user/OneDrive/Desktop/Womens Clothing E-Commerce Reviews
 # Assuming 'Rating' is a numeric variable
 y <- d$Rating
 
-# Create a histogram
+# Creating  histogram
 h <- hist(y,
-          breaks = 5,  # Number of bins
+          breaks = 20,  # Number of bins
           main = "Womens Clothing E-Commerce Rating",
-          xlab = "Rating",
+          xlab = "age",
           ylab = "Frequency",  # Changed to a more appropriate label
           col = "azure",
           xlim = c(0, 5)  # Set x-axis limits according to your data
