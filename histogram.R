@@ -9,9 +9,9 @@ y <- d$Rating
 
 # Creating  histogram
 h <- hist(y,
-          breaks = 20,  # Number of bins
+          breaks = 5,  # Number of bins
           main = "Womens Clothing E-Commerce Rating",
-          xlab = "age",
+          xlab = "Rating",
           ylab = "Frequency",  # Changed to a more appropriate label
           col = "azure",
           xlim = c(0, 5)  # Set x-axis limits according to your data
