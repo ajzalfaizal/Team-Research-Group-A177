@@ -1,0 +1,70 @@
+Team Research
+
+This dataset is interesting because as a teenager and being a part of a significant consumer demographic,analysing this data helps us to understand how our generations opinion differ from older ones
+
+
+
+INDEPENDENT VARIABLE - AGE
+*****************************
+
+Reason - Age influence on other variables on the dataset such as ratings,recommendations
+
+Behavior - Age does not change based on other factors of the dataset
+
+
+INTERNAL / MEASUREMENT DATA 
+_____________________________
+
+   - This type of data is numerical and continuous
+
+Characteristics
+
+. Numerical
+. Ordered (ages can be ranked, eg : age 20 is younger than 30)
+
+
+DEPENDENT VARIABLE - RATING
+*******************************
+
+Reason - The rating customers gives from ( 1- 5 ) could be influenced by factors like age or other variables, different age group gives different ratings
+
+Behavior -  Rating changes based on various factors making it a good candidate for measureing the effect pf other variables like age, product category or positive feedback
+
+########################
+
+other dependent variables // Recommended , Positive feedback
+
+########################
+
+ORDINAL
+_____________________________
+
+ -  This type of data is categorical data with clear order/ranking 
+
+ Characteristics
+
+ > Ordered
+ > No equal intervals
+ > Categorical Nature  (even represented with numbers, the values are categories indicating levels of satisfaction
+
+
+
+RESEARCH QUESTION
+**************************
+> Research Question (RQ):
+Is there a correlation between rating and age?
+
+Hypotheses:
+Null Hypothesis (H0)
+There is no correlation between rating and age.
+-----------------------------------------------
+Alternative Hypothesis (H1):
+There is a correlation between rating and age.
+
+
+
+
+
+// WE WOULD USE TEMPLATE 1 BECAUSE BOTH VARIABLES ARE ORDINAL OR INTERVAL
+AGE - INTERVAL
+RATING - ORDINAL
