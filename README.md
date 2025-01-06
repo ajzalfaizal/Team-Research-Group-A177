@@ -7,15 +7,15 @@ Team Research Group A177
 - Anadhu Krishna Sivaprabha -> 230965639
 - Abhay Shankar Alakkal -> 23107161
 
-## Research 
-Is there a correlation between Rating and Age in Women's E-commerce Clothing Reviws?
+## Research  Question
+"Is there a difference in the proportion of highly rated products between young and old women?
 
 **Independent Variable**: Age
 
 **Dependent Variable**: Rating
 
 **Null Hypothesis**
-There is no correlation Between Rating and Age in Women's E-commerce Clothing Reviews.
+There is no difference in the proportion of highly rated products between young and old women?
 
 **Alternative Hypothesis**
-There is a correlation between Rating and Age in Women's E-commerce Clothing Reviws.
+There is a difference in the proportion of highly rated products between young and old women?
